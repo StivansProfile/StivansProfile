@@ -4,14 +4,11 @@
 
 <a href="https://stivan-portfolio.vercel.app/">My website</a> 
 
-<p>I'm a software engineer based in Bristol, UK. I specialise in building full-stack web applications.</p>
+<p>I'm an aspiring software engineer based in Bristol, UK. I specialise in building full-stack web applications.</p>
 
 <ul>
   <li>
   🔭 Contact me using stivanstf55@gmail.com
-  </li>
-  <li>
-  🌱 I’m currently working as a software engineer.
   </li>
 </ul>
 
